@@ -1,15 +1,15 @@
 # seedlang-utils
-Utils for seedlang.com
+⚠️ **Unofficial** ⚠️ scripts for seedlang.com
 
-# Retire Review Bookmarklet
+## Retire Review Bookmarklet
 
 This is a helper bookmarklet to let you easily retire review cards with a single click.
 
 It is meant to be used during [reviews](https://www.seedlang.com/reviews/decks/review) on [seedlang.com](https://www.seedlang.com).
 
-## Installation
+### Installation
 
-### Firefox
+#### Firefox
 
 - **Right click** on your bookmarks bar (if it's not visible, [see here](https://support.mozilla.org/en-US/kb/bookmarks-firefox#w_how-to-turn-on-the-bookmarks-toolbar)).
 - Select **"New Bookmark..."**
@@ -18,7 +18,7 @@ It is meant to be used during [reviews](https://www.seedlang.com/reviews/decks/r
   Make sure you select the entire line, and that it's all in one line.
 - Click **Add**
 
-### Chrome
+#### Chrome
 
 - **Right click** on your bookmarks bar (if it's not visible, [see here](https://support.google.com/chrome/answer/188842)).
 - Select **"Add Page..."**
@@ -27,8 +27,14 @@ It is meant to be used during [reviews](https://www.seedlang.com/reviews/decks/r
   Make sure you select the entire line, and that it's all in one line.
 - Click **Save**
 
-### Other Browsers
+#### Other Browsers
 
 I have not tested other browsers, but the process should be similar to the above.
 
 You should now be able to click your bookmark to retire the curently visible card.
+
+## Limitations
+
+- This is in no way supported by the official Seedlang app.
+- It relies on the Seedlang app not changing its web interface (which it occasionally does). In that case these utils might break, with unexpected results.
+- ⚠️ When you retire a review **you do not get any points**. Please take this into account before you go into a retirement spree 🔥
