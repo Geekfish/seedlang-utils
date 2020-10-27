@@ -1,0 +1,1 @@
+javascript:(function(){document.getElementsByClassName("graph-outline-icon icon")[0].parentElement.parentElement.parentElement.click(); Array.from(document.getElementsByTagName("button")).forEach(function(button) {if(button.innerText == "Retire Review") { button.click();}});})();
