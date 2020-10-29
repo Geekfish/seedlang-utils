@@ -56,7 +56,7 @@ You need to configure the bookmarklet before you can use it:
    Some examples:
     - English -> Greek (`engr`): https://www.wordreference.com/engr/
     - German -> Spanish (`dees`): https://www.wordreference.com/dees/
-    - English synonyms: https://www.wordreference.com/synonyms/
+    - English synonyms (`synonyms`): https://www.wordreference.com/synonyms/
 
 ### Installation
 
