@@ -37,6 +37,8 @@ With a review card currently visible, click the bookmarklet to immediately retir
 This is a helper bookmarklet to let you easily lookup a word on the WordReference dictionary.
 This could be used by translators who need extra references from various dictionaries.
 
+✅ This will also work on other websites, not just Seedlang.
+
 ### Usage
 
 1. Highlight the word you want to lookup
